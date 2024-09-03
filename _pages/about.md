@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "SPICY_PIG"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # 关于我
 
 大家好！我是一个乐观的人，热爱生活并喜欢锻炼。无论是日常的挑战还是生活中的小确幸，我总能以积极的态度去面对。喜欢记录那些值得向别人展示的记忆，并用照片丰富我的生活。
